@@ -1,4 +1,4 @@
-package dia1;
+package dia1.EncriptarMensaje;
 
 public class MensajeSecreta {
     public static void main(String[] args) {

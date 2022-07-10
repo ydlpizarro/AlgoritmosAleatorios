@@ -1,4 +1,4 @@
-package dia1;
+package dia1.EncriptarMensaje;
 
 public class Encriptador {
     public StringBuilder CodificarMensaje(String mensajeOriginal, int llave) {
