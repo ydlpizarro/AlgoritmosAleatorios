@@ -40,3 +40,11 @@ Crear un Programa que realize las apresentaciones de un profesional, pasando com
 >Ingeniero:`Soy (profesion) tengo (numeroAños) años trabajando en la parte de construcción y tengo (numeroEdificios) edificios construido en la constructora que trabajo. Mi sueldo es (sueldo) soles y gano bonos anuales de (bonoAnual) soles`
 
 **Recordar que se tiene que utilizar clases y interface para este programa**
+
+## **Dia 2:**
+
+### **- Lista de Pedidos**
+
+Desenvolver un Programa que reciba un pedido y almacene esta información en una lista. el algoritmo tiene que **mostrar el pedido que tiene mas productos y el valor total de la compra.**
+
+La Clase Pedido tiene las siguientes informaciones.Nombre del **Producto**,**Cantidad**,**Precio Unitario**
