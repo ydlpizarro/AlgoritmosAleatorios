@@ -48,3 +48,10 @@ Crear un Programa que realize las apresentaciones de un profesional, pasando com
 Desenvolver un Programa que reciba un pedido y almacene esta información en una lista. el algoritmo tiene que **mostrar el pedido que tiene mas productos y el valor total de la compra.**
 
 La Clase Pedido tiene las siguientes informaciones.Nombre del **Producto**,**Cantidad**,**Precio Unitario**
+
+## **Dia 3:**
+
+### **- Uso de excepciones**
+
+Desenvolver un Programa que reciba operaciones de división e raiz quadrada, siendo que el usuario escoge que operación va a utilizar y pasa los input de numerador e denominador (si es el caso de división) o un número para obtener la raiz cuadrada de este. **Tratar el input sabiendo que el usuario puede pasar cual quier parámetro como por ejemplo texto. Para este caso será tratado una excepción de error de input, además de ver que existe otra excepción si el denominador es dividido por 0 y si queremos obtener la raíz cuadrada de un número negativo.**
+
